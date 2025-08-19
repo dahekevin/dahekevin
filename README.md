@@ -21,7 +21,7 @@
 
 <div style="display: inline_block">
 <h3 align="left">
-<b> 🖥 <i>Technologies:</i></b>
+<b> 🖥 <i>Tech Stack:</i></b>
 </h3>
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
