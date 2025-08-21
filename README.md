@@ -10,13 +10,13 @@
 <p>
 <div>
   <a href="https://github.com/dahekevin">
-  <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=dahekevin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&border_radius=4.5"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahekevin&langs_count=14&theme=dark&layout=compact"/>
+  <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api?username=dahekevin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&border_radius=4.5"/>
+  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahekevin&langs_count=14&theme=dark&layout=compact"/>
 </a>
-  <img align="center" height="170em" src="giphy.gif" >
 </div>
 </p>
 </details>
+  <img align="center" height="100em" src="giphy.gif" >
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
