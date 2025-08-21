@@ -49,6 +49,8 @@
   <a href = "mailto:dahekevin.rf@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/dahe_kevin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<img width="100" src="giphy.gif" >
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
