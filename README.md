@@ -16,7 +16,7 @@
 </div>
 </p>
 </details>
-  <img align="center" height="140em" src="giphy.gif" >
+  <img autoplay align="center" height="140em" src="giphy.gif" >
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
