@@ -17,6 +17,8 @@
 </p>
 </details>
   <img align="center" height="140em" src="giphy.gif" >
+  <video src="giphy.gif" autoplay loop muted playsinline>
+  </video>
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
