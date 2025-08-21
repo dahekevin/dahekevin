@@ -13,6 +13,7 @@
   <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=dahekevin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&border_radius=4.5"/>
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahekevin&langs_count=14&theme=dark&layout=compact"/>
 </a>
+  <img align="center" height="170em" src="giphy.gif" >
 </div>
 </p>
 </details>
@@ -49,8 +50,6 @@
   <a href = "mailto:dahekevin.rf@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/dahe_kevin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<img width="100" src="giphy.gif" >
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
