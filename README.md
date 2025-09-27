@@ -3,6 +3,7 @@
 </div>
  
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<hr />
  
 <h3 align="center">
 <b>👨‍💻 <i>Top Languages Repo and Commit Details:</i></b>
