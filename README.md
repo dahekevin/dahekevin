@@ -1,9 +1,8 @@
 <div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!🖖;+I'm+Dahe+Kevin;+Nice+to+meet+you!&center=true&size=290&font=Fira+Code&size=25&color=F7F7F7&background=000000&center=true&vCenter=true&width=450&duration=2999&pause=200">
 </div>
- 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
-<hr />
+
+<h1></h1>
  
 <h3 align="center">
 <b>👨‍💻 <i>Top Languages Repo and Commit Details:</i></b>
@@ -19,12 +18,12 @@
 </details>
   <img autoplay align="center" height="140em" src="giphy.gif" >
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<h1></h1>
 
 <div style="display: inline_block">
-<h3 align="left">
+<h3 align="left" >
 <b> 🖥 <i>Tech Stack:</i></b>
-</h3>
+</h3>  
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -41,8 +40,8 @@
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
 </div>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
- 
+<h1></h1>
+
 <h3 align="left">
   <b>📱 <i>Connect with me:</i></b>
 </h3>
@@ -51,8 +50,8 @@
   <a href = "mailto:dahekevin.rf@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/dahe_kevin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
- 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+
+<h1></h1>
 
 <h3 align="center">
   <b>🏆 <i>All Trophies:</i></b>
@@ -64,9 +63,9 @@
 
 <a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
 
-<a align="left" href="#"><img width="100%" height="1" src="bar.gif" /></a>
+<h1></h1>
 
 <div align="right">
-<h3>- Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h3><i>- Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></i>
 </h3>
 </div>
